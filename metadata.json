@@ -1,0 +1,5 @@
+{
+  "name": "AI Canvas Studio",
+  "description": "A multi-modal AI creation studio to generate and edit images, video, and audio with Gemini. Create ultra-realistic prompts, animate photos, analyze media, and bring your creative ideas to life.",
+  "requestFramePermissions": []
+}
